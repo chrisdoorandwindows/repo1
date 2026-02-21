@@ -1,0 +1,58 @@
+
+Host Name:                 LAPTOP-GQ4GBF52
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19045 N/A Build 19045
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          thinkpadlenovo26@outlook.com
+Registered Organization:   N/A
+Product ID:                00330-80000-00000-AA256
+Original Install Date:     2026-02-07, 8:58:45 PM
+System Boot Time:          2026-02-20, 7:13:57 PM
+System Manufacturer:       LENOVO
+System Model:              21BSS1SY00
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 154 Stepping 4 GenuineIntel ~1300 Mhz
+BIOS Version:              LENOVO N3CET63W (1.44 ), 2024-07-12
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     16,082 MB
+Available Physical Memory: 9,485 MB
+Virtual Memory: Max Size:  18,514 MB
+Virtual Memory: Available: 11,078 MB
+Virtual Memory: In Use:    7,436 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-GQ4GBF52
+Hotfix(s):                 12 Hotfix(s) Installed.
+                           [01]: KB5066130
+                           [02]: KB5066135
+                           [03]: KB5011048
+                           [04]: KB5015684
+                           [05]: KB5072653
+                           [06]: KB5071959
+                           [07]: KB5014032
+                           [08]: KB5031539
+                           [09]: KB5032907
+                           [10]: KB5066790
+                           [11]: KB5071982
+                           [12]: KB5034441
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Intel(R) Wi-Fi 6E AX211 160MHz
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.2.1
+                                 IP address(es)
+                                 [01]: 192.168.2.50
+                                 [02]: fe80::f4a0:6d0a:3f97:eab2
+                           [02]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+laptop-gq4gbf52\acer2
